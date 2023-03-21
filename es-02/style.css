@@ -22,12 +22,3 @@ body {background-color: bisque;
     background-color: black;
     float: left;
 }
-
-.wrapper01 {
-    margin: 10px;
-    padding: 30px;
-    border: 1px solid blue;
-    position: absolute;
-    float: left;
-    width: 60%;
-}
