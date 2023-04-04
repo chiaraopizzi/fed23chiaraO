@@ -1,0 +1,122 @@
+.wrapper{
+    width: 1162px;
+    height: 1123px;
+    background-color: whitesmoke;
+    position: fixed;
+}
+
+.base01{
+    width: 644px;
+    height: 106px;
+    background-color: black;
+    margin-left: 296px;
+    margin-top: 803px;
+    position: fixed;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.base02{
+    width: 687px;
+    height: 72px;
+    background-color: black;
+    margin-left: 274px;
+    margin-top: 740px;
+    position: fixed;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.base03{
+    width: 726px;
+    height: 31px;
+    background-color: black;
+    margin-left: 255px;
+    margin-top: 721px;
+    position: fixed;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.base04{
+    width: 157px;
+    height: 96px;
+    background-color: black;
+    margin-left: 824px;
+    margin-top: 625px;
+    position: fixed;
+    border-top-left-radius: 40px;
+}
+
+.base05{
+    width: 90px;
+    height: 134px;
+    background-color: black;
+    margin-left: 891px;
+    margin-top: 523px;
+    position: fixed;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.asta01{
+    width: 18px;
+    height: 512px;
+    background-color: black;
+    margin-left: 660px;
+    margin-top: 225px;
+    position: fixed;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.asta02{
+    width: 9px;
+    height: 282px;
+    background-color: black;
+    margin-left: 415px;
+    margin-top: 455px;
+    position: fixed;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.bandiera01{
+    width: 175px;
+    height: 99px;
+    background-color: black;
+    margin-left: 582px;
+    margin-top: 267px;
+    position: fixed;
+    border-radius: 20px;
+}
+
+.bandiera02{
+    width: 259px;
+    height: 146px;
+    background-color: black;
+    margin-left: 540px;
+    margin-top: 420px;
+    position: fixed;
+    border-radius: 20px;
+}
+
+.bandiera03{
+    width: 76px;
+    height: 52px;
+    background-color: black;
+    margin-left: 381px;
+    margin-top: 483px;
+    position: fixed;
+    border-radius: 10px;
+}
+
+.bandiera04{
+    width: 113px;
+    height: 76px;
+    background-color: black;
+    margin-left: 363px;
+    margin-top: 563px;
+    position: fixed;
+    border-radius: 10px;
+}
